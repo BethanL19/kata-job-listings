@@ -1,33 +1,14 @@
-# Simplified CRA (Create-React-App) starter
+📝Brief
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+Your challenge is to build out this landing page and get it looking as close to the design as possible.
 
-> This is part of Academy's technical curriculum for **The Mark**. All parts of that curriculum, including this project, are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-This project was created using [Create React App](https://create-react-app.dev/)
+We provide the data in a local data.json file, so you can use that to populate the content on the first load if you like.
 
-Extra features added:
+Your users should be able to:
 
--   Add CI with GitHub Actions
--   Add custom eslint config
--   Prettier
--   TypeScript
--   Removed unneccessary logo images
--   Removed unnecessary web-vitals
--   Added an example extra module and unit test (greet.ts)
--   Added more scripts to package.json
+    View the optimal layout for the site depending on their device's screen size
+    See hover states for all interactive elements on the page
+    Filter job listings based on the categories selected
 
-```
-    "test": "react-scripts test --watchAll=false",
-    "test:watch": "react-scripts test",
-    "format": "prettier --write src",
-    "format:check": "prettier --check src",
-    "lint": "eslint src",
-    "type-check": "tsc --noEmit"
-```
-
-## Learn more about Create-React-App
-
-You can learn more in the [Create React App documentation](https://create-react-app.dev/).
-
-To learn React, check out the [React documentation](https://reactjs.org/) or the [new docs (in beta)](https://beta.reactjs.org/)
