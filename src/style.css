@@ -20,6 +20,7 @@
 
 .jobTitle {
   font-weight: bold;
+  color: rgb(90, 89, 89);
 }
 
 .jobHeader {
@@ -29,7 +30,7 @@
 
 .featuredLabel {
   color: white;
-  background: rgb(22, 19, 19);
+  background: rgb(90, 89, 89);
   padding: 4px;
   border-radius: 5px;
   font-weight: bold;
